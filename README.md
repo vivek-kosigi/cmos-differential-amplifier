@@ -93,7 +93,7 @@ for the differential pair.
 The complete transistor-level schematic was created in Cadence
 Virtuoso.
 
-![CMOS Differential Amplifier Schematic](images/Schematic .png)
+![CMOS Differential Amplifier Schematic](images/Schematic.png)
 
 ### Main circuit elements
 
