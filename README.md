@@ -93,7 +93,7 @@ for the differential pair.
 The complete transistor-level schematic was created in Cadence
 Virtuoso.
 
-![CMOS Differential Amplifier Schematic](images/Schematic.png)
+![CMOS Differential Amplifier Schematic](images/Schematic .png)
 
 ### Main circuit elements
 
@@ -126,7 +126,7 @@ The testbench provides:
 The input sources are configured with sinusoidal excitation for
 transient analysis.
 
-![Testbench](images/symbol_tb.png)
+![Testbench](images/synbol_tb.png)
 
 ---
 
